@@ -1,7 +1,7 @@
 # HW4
-- local histogram equalization
-- Average filter and Gaussian filter
-- 0-degree/90-degree **Sobel filter** and 4-neighbor/8-neighbor **laplacian filter**
+- local histogram equalization (hw4_1.cpp)
+- Average filter and Gaussian filter (hw4_2_1.cpp, hw4_2_2.cpp)
+- **Sobel filter** and **laplacian filter** (hw4_3_1.cpp ~ hw4_3_4.cpp)
 
 ## key point
 ### Introduction of spatial domain edge detection
