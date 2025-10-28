@@ -5,7 +5,7 @@
 
 ---
 
-## key point
+## highlight
 ### Introduction of Floyd-Steinberg dithering algorithm
 False contours often appear due to quantization. A common solution is **Floyd–Steinberg dithering**, which distributes the quantization error of a pixel to its neighboring pixels to create a visually smoother result.
 
