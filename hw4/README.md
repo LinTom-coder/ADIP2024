@@ -3,7 +3,7 @@
 - Average filter and Gaussian filter (hw4_2_1.cpp, hw4_2_2.cpp)
 - **Sobel filter** and **laplacian filter** (hw4_3_1.cpp ~ hw4_3_4.cpp)
 
-## key point
+## highlight
 ### Introduction of spatial domain edge detection
 **Spatial domain edge detection** involves applying convolutional filters directly to pixel values to detect intensity changes that signify edges. This project implements two common edge detection methods:
 
