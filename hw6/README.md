@@ -2,7 +2,7 @@
 - binary and gray-scale closing operation (hw6_1.cpp)
 - thinning operation (hw6_2.cpp)
 
-## Key point
+## highlight
 ### Introduction of thinning
 Thinning is a **morphological operation** that reduces binary foreground regions to a single-pixel-wide skeleton using **hit-or-miss** operation while preserving the topology of the original shape.
 
